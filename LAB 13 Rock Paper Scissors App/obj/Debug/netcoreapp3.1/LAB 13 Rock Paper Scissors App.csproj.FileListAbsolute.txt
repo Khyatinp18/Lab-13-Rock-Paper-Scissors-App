@@ -1,0 +1,11 @@
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\bin\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.exe
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\bin\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.deps.json
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\bin\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.runtimeconfig.json
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\bin\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.runtimeconfig.dev.json
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\bin\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.dll
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\bin\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.pdb
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\obj\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.csprojAssemblyReference.cache
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\obj\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.AssemblyInfoInputs.cache
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\obj\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.AssemblyInfo.cs
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\obj\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.dll
+C:\Users\nayan\source\repos\LAB 13 Rock Paper Scissors App\LAB 13 Rock Paper Scissors App\obj\Debug\netcoreapp3.1\LAB 13 Rock Paper Scissors App.pdb
